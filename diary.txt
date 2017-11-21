@@ -1,0 +1,13 @@
+19/09/17    11:30   11:45   modifidy the pypl.py for subset 1 function.
+19/09/17    12:15   12:50   deal with subset 1, i.e. variable and assignment.
+19/09/17    19:00   23:30   debug for subset 2, deal with subset 3.
+20/09/17    10:30   12:00   debug for subset 3.
+20/09/17    12:15   12:40   debug for for in range part.
+23/09/17    12:00   15:00   implements functions for subset 4, mainly focus on print with %, lists, sys.stdin.readlines()
+27/09/17    13:30   16:30   debug and improve readability.
+28/09/17    13:30   18:00   see below 
+28/09/17    19:50   23:00   reorganize the whole structure, improving the readability, debug for subset 4, implement some features of subset 5.
+02/10/17    15:00   23:50   debug for previous work, mainly focusing on subset 0-4, a little about subset 5.
+03/10/17    12:00   18:00   debug for previous work, add comments
+04/10/17    11:00   15:30   
+04/10/17    18:30   21:50   debug, increase the readability. create final test0?.py and demo0?.py
